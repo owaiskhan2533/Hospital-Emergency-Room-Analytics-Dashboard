@@ -41,7 +41,7 @@ This **Healthcare Analytics Dashboard** provides a detailed operational overview
 ##  Dashboard Preview
 
 ![Hospital Emergency Room Dashboard]
-<a href=""></a>
+<a href="https://github.com/owaiskhan2533/Hospital-Emergency-Room-Analytics-Dashboard/blob/main/Excel%20Project.png">Dashboard</a>
 
 ---
 
